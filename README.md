@@ -106,3 +106,5 @@ printf("Enter plaintext: ");
 ![image](https://github.com/user-attachments/assets/9949a00b-69a2-43f7-8a73-949439e5765d)
 
 ## RESULT
+Thus, the above given Hill Cipher program is executed sucessfully.
+
